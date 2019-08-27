@@ -1,0 +1,40 @@
+
+.navbar {
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+    float: right;
+}
+
+.image {
+    width: 272;
+    height: 92;
+    margin-top: 89px;
+    margin-left: 500px;
+}
+
+.search-box {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    position: relative;
+    word-wrap: break-word;
+    display: flex;
+    width: 50px;
+    height: 52px;
+    margin-top: -37;
+    flex: 100%;
+    top: 10px;
+    font: 1px arial, sans-serif;
+    line-height: 34px;
+}
+
+.buttons-box {
+    width: 487px;
+    height: 58px;
+    margin-left: 530px;
+}
